@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "자료구조 구현 과제", "자료구조 구현 과제\자료구조 구현 과제.vcxproj", "{AAA8E489-F90B-4BDC-A3CC-F1C2E1460204}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AAA8E489-F90B-4BDC-A3CC-F1C2E1460204}.Debug|x64.ActiveCfg = Debug|x64
+		{AAA8E489-F90B-4BDC-A3CC-F1C2E1460204}.Debug|x64.Build.0 = Debug|x64
+		{AAA8E489-F90B-4BDC-A3CC-F1C2E1460204}.Debug|x86.ActiveCfg = Debug|Win32
+		{AAA8E489-F90B-4BDC-A3CC-F1C2E1460204}.Debug|x86.Build.0 = Debug|Win32
+		{AAA8E489-F90B-4BDC-A3CC-F1C2E1460204}.Release|x64.ActiveCfg = Release|x64
+		{AAA8E489-F90B-4BDC-A3CC-F1C2E1460204}.Release|x64.Build.0 = Release|x64
+		{AAA8E489-F90B-4BDC-A3CC-F1C2E1460204}.Release|x86.ActiveCfg = Release|Win32
+		{AAA8E489-F90B-4BDC-A3CC-F1C2E1460204}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF62508F-E456-4A80-B443-E10812DC107E}
+	EndGlobalSection
+EndGlobal
